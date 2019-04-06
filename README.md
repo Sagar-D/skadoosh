@@ -1,1 +1,1 @@
-# skadoosh-accounts
+# skadoosh
